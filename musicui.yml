@@ -1,6 +1,6 @@
 eureka:
   client:
-    shouldRegisterWithEureka: false
+    shouldRegisterWithEureka: true
 mysql:
   client:
     database: steeltoe2
