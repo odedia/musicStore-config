@@ -1,5 +1,5 @@
 AppSettings:
-  SiteTitle: Music Store by CLAL
+  SiteTitle: Music Store
   CacheDbResults: true
 Logging: 
   IncludeScopes: false
